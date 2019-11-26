@@ -1,0 +1,2 @@
+# OracleDatabaseCtl
+一键控制oracle数据库的运行和关闭
